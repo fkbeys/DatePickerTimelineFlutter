@@ -11,11 +11,11 @@ const TextStyle defaultMonthTextStyle = TextStyle(
 const TextStyle defaultDateTextStyle = TextStyle(
   color: AppColors.defaultDateColor,
   fontSize: Dimen.dateTextSize,
-  fontWeight: FontWeight.w500,
+  fontWeight: FontWeight.bold,
 );
 
 const TextStyle defaultDayTextStyle = TextStyle(
   color: AppColors.defaultDayColor,
   fontSize: Dimen.dayTextSize,
-  fontWeight: FontWeight.w500,
+  fontWeight: FontWeight.bold,
 );
